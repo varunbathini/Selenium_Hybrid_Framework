@@ -32,7 +32,7 @@ class Test_01_Admin_Login:
         self.admin_lp.enter_username(self.username)
         self.admin_lp.enter_password(self.password)
         self.admin_lp.click_log()
-        act_dashboard_text = self.driver.find_element(By.XPATH, "//Div[@class='content-header]/h1").text
+        act_dashboard_text = self.driver.find_element(By.XPATH, "//div[@class='content-header']//h1").text
         if act_dashboard_text == "Dashboard":
             assert True
             self.driver.close()
