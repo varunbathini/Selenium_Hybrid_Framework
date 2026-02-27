@@ -1,0 +1,7 @@
+2026-02-27 17:26:27:INFO:**********Test_01_Admin_Login************
+2026-02-27 17:26:27:INFO:**********verification of admin login page title***********
+2026-02-27 17:26:29:INFO:**********test_title_verification title matched************
+2026-02-27 17:26:30:INFO:**********test_valid_admin_login started************
+2026-02-27 17:26:34:INFO:**********Dashboard text found ************
+2026-02-27 17:26:35:INFO:**********test_invalid_admin_login started ************
+2026-02-27 17:26:37:INFO:**********test_invalid_admin_login Error Messages matched ************
