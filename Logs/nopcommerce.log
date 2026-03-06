@@ -5,3 +5,20 @@
 2026-02-27 17:26:34:INFO:**********Dashboard text found ************
 2026-02-27 17:26:35:INFO:**********test_invalid_admin_login started ************
 2026-02-27 17:26:37:INFO:**********test_invalid_admin_login Error Messages matched ************
+2026-03-06 21:22:49:WARNING:Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2026-03-06 21:22:50:INFO:**********test_valid_admin_login started************
+2026-03-06 21:22:50:INFO:**********Test_01_Admin_Login************
+2026-03-06 21:22:50:INFO:**********test_invalid_admin_login started ************
+2026-03-06 21:22:50:INFO:**********verification of admin login page title***********
+2026-03-06 21:22:51:INFO:**********test_title_verification title matched************
+2026-03-06 21:26:49:INFO:**********Test_01_Admin_Login************
+2026-03-06 21:26:49:INFO:**********verification of admin login page title***********
+2026-03-06 21:26:50:INFO:**********test_title_verification title matched************
+2026-03-06 21:26:51:INFO:**********test_valid_admin_login started************
+2026-03-06 21:26:56:INFO:**********test_invalid_admin_login started ************
+2026-03-06 21:26:58:INFO:**********test_invalid_admin_login Error Messages matched ************
+2026-03-06 21:48:44:INFO:**********Test_01_Admin_Login************
+************
+2026-03-06 21:48:44:INFO:**********verification of admin login page title***********
+2026-03-06 21:48:44:INFO:**********test_valid_admin_login started************
+2026-03-06 21:48:47:INFO:**********test_title_verification title matched************
