@@ -10,7 +10,6 @@ def pytest_addoption(parser):
 def browser(request):
     return request.config.getoption("--browser")
 
-
 @pytest.fixture()
 def setup(browser):
     global driver

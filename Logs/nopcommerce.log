@@ -22,3 +22,8 @@
 2026-03-06 21:48:44:INFO:**********verification of admin login page title***********
 2026-03-06 21:48:44:INFO:**********test_valid_admin_login started************
 2026-03-06 21:48:47:INFO:**********test_title_verification title matched************
+2026-03-06 21:51:53:INFO:**********Test_01_Admin_Login************
+2026-03-06 21:51:53:INFO:**********verification of admin login page title***********
+2026-03-06 21:51:54:INFO:**********test_title_verification title matched************
+2026-03-06 21:51:55:INFO:**********test_valid_admin_login started************
+2026-03-06 21:51:57:INFO:**********test_invalid_admin_login started ************
