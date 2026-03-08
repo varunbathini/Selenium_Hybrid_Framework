@@ -24,6 +24,7 @@ class Test_02_Admin_Login_data_driven:
 
 
 
+
         self.admin_lp.enter_username(self.username)
         self.admin_lp.enter_password(self.password)
         self.admin_lp.click_log()
